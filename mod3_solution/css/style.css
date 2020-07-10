@@ -1,0 +1,75 @@
+/* core */
+
+* {
+	font-family: 'Raleway', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+/* navbar */
+
+.brand-font {
+	font-family: 'Galada', cursive;
+	font-size: 3em;
+	font-weight: bold;
+}
+
+#main-nav {
+	border-bottom: solid 3px black;
+	opacity: .8;
+}
+
+#navbarNav {
+	text-align: center;
+}
+
+.nav-link {
+	font-weight: bold;
+	font-size: 1.25;
+}
+
+/* title */
+
+h2 {
+	font-family: 'Galada', cursive;
+	font-size: 2em;
+	padding-top: 15px;
+}
+
+/* content boxes */
+
+.grub a {
+	text-decoration: none;
+	color: white;
+}
+
+.grub a:hover {
+	text-decoration: none;
+	color: violet;
+}
+
+.grub {
+	float: left;
+	clear: left;
+	background-color: grey;
+	border: solid 10px white;
+	padding: 15px;
+}
+
+.grub h3 {
+	font-family: 'Galada', cursive;
+	font-size: 1.75em;
+	text-align: center;
+}
+
+/* footer */
+
+/* media queries */
+
+/* XS */
+
+/* SM */
+
+/* MD */
